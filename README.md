@@ -1,6 +1,6 @@
 # Découvrir la gestion de projets... avec des légos !
 
-Dans cette séance, nous allons construire un parc (zoologique et d'attraction) selon successiment :
+Dans cette séance, nous allons construire un parc (zoologique et d'attraction) selon successivement :
 
 - une méthode classique (GANTT),
 - une méthode agile.

@@ -16,7 +16,7 @@ Il est garant de l'ordre dans lequel seront effectuées les tâches.
 Il doit vérifier que la qualité et le délais des livraisons sont respectées.
 
 
-## Terrasser le terrain (terrasier)
+## Terrasser le terrain (terrassier)
 
 ![](DSC08125.jpg)
 ![](DSC08126.jpg)

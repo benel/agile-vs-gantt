@@ -1,6 +1,6 @@
 # Évaluation du déroulement du projet
 
-- Les constructions ont-elles dues être reagencées les unes par rapport aux autres ?
+- Les constructions ont-elles dues être réagencées les unes par rapport aux autres ?
 Qui aurait dû l'anticiper et comment ?
 - Ai-je anticipé le devenir de mon travail ? Me suis-je senti responsable de ce que les autres corps de métier feraient de mon travail ? Me suis-je senti responsable du produit final qui serait livré aux usagers ?
 - À certains moments, ai-je eu  trop de travail (stress) ou pas assez (ennui) ?
