@@ -1,4 +1,4 @@
-# Gestion de projet classique (GANTT)
+# Gestion de projet classique (avec diagramme de Gantt)
 
 Dans l'équipe de 8-12 personnes, nous allons nommer :
 

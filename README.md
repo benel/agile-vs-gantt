@@ -2,7 +2,7 @@
 
 Dans cette séance, nous allons construire un parc (zoologique et d'attraction) selon successivement :
 
-- une méthode classique (GANTT),
+- une méthode classique (avec diagramme de Gantt),
 - une méthode agile.
 
 <a href="https://education.lego.com/en-us/products/community-starter-set/9389">
