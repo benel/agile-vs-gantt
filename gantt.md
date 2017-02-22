@@ -1,14 +1,20 @@
 # Gestion de projet classique (GANTT)
 
-Dans l'équipe de 8-12 personnes, nommez :
+Dans l'équipe de 8-12 personnes, nous allons nommer :
 
+-  1 architecte,
 -  1 terrassier,
 -  2 ou 3 maçons,
 -  1 ou 2 mécaniciens,
 -  1 ou 2 jardiniers,
 -  1 ou 2 animaliers,
--  1 menuisier,
--  1 architecte.
+-  1 menuisier.
+
+L'architecte récupère les sachets de ressources nécessaires à chacune des tâches.
+Il les distribuera au début de chaque phase au corps de métier correspondant.
+Il est garant de l'ordre dans lequel seront effectuées les tâches.
+Il doit vérifier que la qualité et le délais des livraisons sont respectées.
+
 
 ## Terrasser le terrain (terrasier)
 
