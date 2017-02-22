@@ -1,5 +1,15 @@
 # Gestion de projet classique (GANTT)
 
+Dans l'équipe de 8-12 personnes, nommez :
+
+-  1 terrassier,
+-  2 ou 3 maçons,
+-  1 ou 2 mécaniciens,
+-  1 ou 2 jardiniers,
+-  1 ou 2 animaliers,
+-  1 menuisier,
+-  1 architecte.
+
 ## Terrasser le terrain (terrasier)
 
 ![](DSC08125.jpg)
