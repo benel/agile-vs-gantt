@@ -57,4 +57,4 @@ Une fois que la fonctionnalité est livrée, le *post-it* est déplacée dans la
 
 ---
 
-Lorsqu'il n'y a plus aucun post-it dans la deuxième et la troisième colonne (ou prématurément si nécessaire), passer à la séance de [verbalisation](defriefing.md).
+Lorsqu'il n'y a plus aucun post-it dans la deuxième et la troisième colonne (ou prématurément si nécessaire), passer à la séance de [verbalisation](debriefing.md).

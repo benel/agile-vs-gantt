@@ -84,4 +84,4 @@ Il doit vérifier que la qualité et le délais des livraisons sont respectées.
 
 ---
 
-Après 40 minutes, que le projet soit achevé ou pas, passer à la séance de [verbalisation](defriefing.md).
+Après 40 minutes, que le projet soit achevé ou pas, passer à la séance de [verbalisation](debriefing.md).
