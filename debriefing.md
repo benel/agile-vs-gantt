@@ -9,4 +9,6 @@ Qui aurait dû l'anticiper et comment ?
 
 ---
 
+Démonter et ranger les légos.
+
 Si ce n'est déjà fait, continuer avec la [méthode agile](agile.md) de gestion de projet.
