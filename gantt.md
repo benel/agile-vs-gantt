@@ -1,6 +1,6 @@
 # Gestion de projet classique (GANTT)
 
-## Terrasser le terrain (terrasiers)
+## Terrasser le terrain (terrasier)
 
 ![](DSC08125.jpg)
 ![](DSC08126.jpg)
@@ -26,7 +26,7 @@
 ![](DSC08139.jpg)
 ![](DSC08152.jpg)
 
-## (mécaniciens/soudeurs)
+## Monter ou souder les parties mécaniques (mécaniciens)
 
 ![](DSC08149.jpg)
 ![](DSC08138.jpg)
@@ -37,7 +37,7 @@
 ![](DSC08147.jpg)
 ![](DSC08148.jpg)
 
-## Planter des arbres, arbustes, fleurs (jardiniers)
+## Planter les arbres, arbustes, fleurs (jardiniers)
 
 ![](DSC08115.jpg)
 
@@ -55,7 +55,7 @@
   - les girafes en liberté à proximité d'un arbre
   - le lion et les crocodiles derrière les barrières
 
-# Fabriquer et installer le mobilier (menuisiers)
+# Fabriquer et installer le mobilier (menuisier)
 
 ![](DSC08117.jpg)
 
