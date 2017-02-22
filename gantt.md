@@ -75,3 +75,7 @@ Dans l'équipe de 8-12 personnes, nommez :
 # Fabriquer un bus (mécaniciens)
 
 ![](DSC08122.jpg)
+
+---
+
+Après 40 minutes, que le projet soit achevé ou pas, passer à la séance de [verbalisation](defriefing.md).

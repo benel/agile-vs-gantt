@@ -31,3 +31,6 @@
 ![](https://www.fspartner.no/users/inxcover_mystore_no/images/14776_LEGO__Education_LEGO__Community_Starter_Set_7.jpg "Car de ville")
 
 ![](https://www.fspartner.no/users/inxcover_mystore_no/images/14776_LEGO__Education_LEGO__Community_Starter_Set_3.jpg "Éolienne")
+---
+
+Lorsque la première (ou la seconde) fonctionnalité est livrée, passer à la séance de [verbalisation](defriefing.md).
