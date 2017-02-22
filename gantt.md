@@ -13,6 +13,7 @@
 ![](DSC08127.jpg)
 ![](DSC08129.jpg)
 ![](DSC08136.jpg)
+![](DSC08155.jpg)
 
 ## Faire le gros œuvre (maçons) 
 
@@ -22,6 +23,8 @@
 ![](DSC08134.jpg)
 ![](DSC08135.jpg)
 ![](DSC08137.jpg)
+![](DSC08139.jpg)
+![](DSC08152.jpg)
 
 ## (mécaniciens/soudeurs)
 
