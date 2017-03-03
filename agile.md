@@ -10,16 +10,37 @@ Mais plutôt que de se cantonner à ce qu'il sait faire, il pourra utiliser son 
 
 On va chercher les usagers (personnages avec leurs accessoires) et on les confie aux représentants des usagers.
 
-Pour chaque récit d'usager (cf. ci-dessous), on essaie de le raconter en "je" et d'identifier une à trois "fonctionnalités" ("je peux X").
-Ces fonctionnalités sont inscrites sur des *post-it* et placées dans la première colonne du kanban (`À envisager`).
+On confie aux représentants des usagers des *post-it* :
 
-Les représentants des usagers choisissent les récits (correspondant à peu près à 4 fonctionnalités) qui leur semblent prioritaires du point de vue des usagers et placent les fonctionnalités correspondantes dans la deuxième colonne du kanban (`À faire`), en les triant par priorité de haut en bas.
+- correspondant à des récits d'usagers
+  - Jouer avec mes enfants à un jeu d'adresse le week-end.
+  - Aller avec les copains sur des manèges à sensation.
+  - Aller au zoo avec mes nièces.
+  - Aller à la piscine entre copines pendant les beaux jours en début de soirée après le travail.
+  - Aller à la pizzeria le soir avec mon amie.
+  - Laisser mon chien courir dans les bois.
+  - S'aérer avec mon petit fils à la mare aux canards.
+  - Être éclairé dans le parc grâce à de l'énergie renouvelable.
+  - Venir au parc, seul ou en famille, avec un moyen de locomotion non polluant.
+- correspondant à des fonctionnalités associées à ces récits
+  - Manger une pizza à table.
+  - Être éclairé le soir.
+  - Être assis en terrasse.
+  - Ponger dans la piscine.
+  - Se reposer sur une chaise-longue (au soleil ou à l'ombre)
+  - Monter sur la grande roue.
+  - Viser avec une balle en mousse une cible tournante.
 
-Les membres de l'équipe déplacent les deux premiers *post-it* dans la troisième colonne (`En cours`).
+Sur le kanban, dans la première colonne (`À envisager`), on colle ces *post-it* en associant chaque fonctionnalités à un récit (on peut s'aider des photos ci-dessous).
+Les fonctionnalités manquantes seront complétées plus tard par les représentants des usagers.
+Les représentants choisissent les récits qui leur semblent prioritaires du point de vue des usagers et livrables dans le temps de la session.
+Ils placent les fonctionnalités correspondantes dans la deuxième colonne du kanban (`À faire`), en les triant par priorité de haut en bas.
+
+Les membres de l'équipe déplacent les trois premiers *post-it* des fonctionnalités dans la troisième colonne (`En cours`).
 
 Une fois que la fonctionnalité est livrée, le *post-it* est déplacée dans la quatrième colonne (`Fait`).
 
-À tout moment, et de manière répétée, les représentants des usagers peuvent demander à ce que leur soit fait une démonstration des fonctionnalités indiquées dans la quatrième colonne.
+À tout moment, et de manière répétée, les représentants des usagers peuvent prendre connaissance des fonctionnalités livrées et ajouter les personnages dans la scène.
 
 ---
 
