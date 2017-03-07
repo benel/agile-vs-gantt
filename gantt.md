@@ -23,6 +23,7 @@ Il doit vérifier que la qualité et les dates de fin des différentes tâches s
 ![](DSC08128.jpg)
 ![](DSC08123.jpg)
 ![](DSC08124.jpg)
+![](DSC08319.jpg)
 
 ## Faire les fondations (maçons)
 
@@ -35,6 +36,7 @@ Il doit vérifier que la qualité et les dates de fin des différentes tâches s
 
 ![](DSC08130.jpg)
 ![](DSC08150.jpg)
+![](DSC08320.jpg)
 ![](DSC08133.jpg)
 ![](DSC08134.jpg)
 ![](DSC08135.jpg)
@@ -51,7 +53,7 @@ Il doit vérifier que la qualité et les dates de fin des différentes tâches s
 ![](DSC08146.jpg)
 ![](DSC08120.jpg)
 ![](DSC08147.jpg)
-![](DSC08148.jpg)
+![](DSC08324.jpg)
 
 ## Planter les arbres, arbustes, fleurs (jardiniers)
 
@@ -64,6 +66,7 @@ Il doit vérifier que la qualité et les dates de fin des différentes tâches s
 ## Installer les animaux (animaliers)
 
 ![](DSC08114.jpg)
+![](DSC08321.jpg)
 
 - dans le parc
   - les canards dans l'étang
@@ -81,6 +84,7 @@ Il doit vérifier que la qualité et les dates de fin des différentes tâches s
 # Fabriquer un bus (mécaniciens)
 
 ![](DSC08122.jpg)
+![](DSC08323.jpg)
 
 ---
 
