@@ -13,7 +13,7 @@ Dans l'équipe de 8-12 personnes, nous allons nommer :
 L'architecte récupère les [sachets de ressources](ressources/ressources.md) nécessaires à chacune des tâches.
 Il les distribuera au début de chaque phase au corps de métier correspondant.
 
-En se basant sur le [diagramme de Gantt fourni](https://github.com/benel/agile-vs-gantt/releases/download/1.0/gantt.gan) (à ouvrir avec le logiciel [GanttProject](http://ganttproject.biz/)), il est garant du respect de l'ordre dans lequel seront effectuées les tâches.
+En se basant sur le [diagramme de Gantt fourni](https://github.com/benel/agile-vs-gantt/releases/download/1.0/gantt.gan) (à ouvrir avec le logiciel [GanttProject](https://www.ganttproject.biz/download/gp30)), il est garant du respect de l'ordre dans lequel seront effectuées les tâches.
 Il doit vérifier que la qualité et les dates de fin des différentes tâches sont respectées (5 minutes réelles = 1 mois simulé).
 
 ## Terrasser le terrain (terrassier)
