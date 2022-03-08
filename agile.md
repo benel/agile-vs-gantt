@@ -12,7 +12,7 @@ On va chercher les usagers (personnages avec leurs accessoires) et on les confie
 
 On confie aux représentants des usagers des *post-it* :
 
-- correspondant à des récits d'usagers
+- correspondant à des situations d'usage
   - Jouer avec mes enfants à un jeu d'adresse le week-end.
   - Aller avec les copains sur des manèges à sensation.
   - Aller au zoo avec mes nièces.
@@ -22,7 +22,7 @@ On confie aux représentants des usagers des *post-it* :
   - S'aérer avec mon petit fils à la mare aux canards.
   - Être éclairé dans le parc grâce à de l'énergie renouvelable.
   - Venir au parc, seul ou en famille, avec un moyen de locomotion non polluant.
-- correspondant à des fonctionnalités associées à ces récits
+- correspondant à des fonctionnalités associées à ces situations
   - Manger une pizza à table.
   - Être éclairé le soir.
   - Être assis en terrasse.
@@ -31,9 +31,9 @@ On confie aux représentants des usagers des *post-it* :
   - Monter sur la grande roue.
   - Viser avec une balle en mousse une cible tournante.
 
-Sur le kanban, dans la première colonne (`À envisager`), on colle ces *post-it* en associant chaque fonctionnalités à un récit (on peut s'aider des photos ci-dessous).
+Sur le kanban, dans la première colonne (`À envisager`), on colle ces *post-it* en associant chaque fonctionnalités à une situation d'usage (on peut s'aider des photos ci-dessous).
 Les fonctionnalités manquantes seront complétées plus tard par les représentants des usagers.
-Les représentants choisissent les récits qui leur semblent prioritaires du point de vue des usagers et livrables dans le temps de la session.
+Les représentants choisissent les situations qui leur semblent prioritaires du point de vue des usagers et livrables dans le temps de la session.
 Ils placent les fonctionnalités correspondantes dans la deuxième colonne du kanban (`À faire`), en les triant par priorité de haut en bas.
 
 Les membres de l'équipe déplacent les trois premiers *post-it* des fonctionnalités dans la troisième colonne (`En cours`).
@@ -44,7 +44,7 @@ Une fois que la fonctionnalité est livrée, le *post-it* est déplacée dans la
 
 ---
 
-# Annexe : Récits d'usagers (*user stories*)
+# Annexe : Situations d'usage 
 
 ![](http://www.ducklearning.com/wp-content/uploads/2015/10/9389_14.jpg "Mare aux canards")
 
