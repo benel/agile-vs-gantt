@@ -1,11 +1,11 @@
 # Gestion de projet classique (avec diagramme de Gantt)
 
-Dans l'équipe de 8-12 personnes, nous allons nommer :
+Dans l'équipe de 8-14 personnes, nous allons nommer :
 
 -  1 architecte,
 -  1 terrassier,
--  2 ou 3 maçons,
--  1 ou 2 mécaniciens,
+-  2 à 4 maçons,
+-  1 à 3 mécaniciens,
 -  1 ou 2 jardiniers,
 -  1 ou 2 animaliers,
 -  1 menuisier.
