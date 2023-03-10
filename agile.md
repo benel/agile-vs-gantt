@@ -2,7 +2,7 @@
 
 Dans l'équipe, nous allons nommer :
 
-- 1 ou 2 représentants des usagers,
+- 2 représentants des usagers,
 - les autres seront les "membres de l'équipe", de manière indifférenciée.
 
 En raison de son expérience de tout à l'heure, chaque membre de l'équipe sera plus ou moins expert dans un domaine.
