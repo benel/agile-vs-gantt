@@ -7,7 +7,7 @@ Dans l'équipe de 8-12 personnes, nous allons nommer :
 -  2 maçons,
 -  1 ou 2 mécaniciens,
 -  1 ou 2 jardiniers,
--  1 animaliers,
+-  1 ou 2 animaliers,
 -  1 menuisier.
 
 L'architecte récupère les [sachets de ressources](ressources/ressources.md) nécessaires à chacune des tâches.
